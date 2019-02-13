@@ -9,6 +9,7 @@
 > **Signatures:**
 > * **Ross Campbell**: [@r_ross_campbell](https://twitter.com/r_ross_campbell)
 > * **Tommy Cox**: [@proofoftom](https://twitter.com/proofoftom)
+> * **Ben Otte**: [@bencotte](https://twitter.com/bencotte)
 
 ## Join the Conversation:
 * [Twitter](https://twitter.com/dhh/status/1091373596021116930)
