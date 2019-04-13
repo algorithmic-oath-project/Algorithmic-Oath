@@ -11,6 +11,7 @@
 > * **Tommy Cox**: [@proofoftom](https://twitter.com/proofoftom)
 > * **Ben Otte**: [@bencotte](https://twitter.com/bencotte)
 > * **Sidak Singh Aulakh**: [@co16353sidak](https://github.com/co16353sidak)
+> * **Vivsvaan Sharma**: [@vivsvaan](https://github.com/vivsvaan)
 
 ## Join the Conversation:
 * [Twitter](https://twitter.com/dhh/status/1091373596021116930)
